@@ -1,4 +1,4 @@
-# Galería para participantes
+# Galería para android
 
 Proyecto creado desde cero en D:\proyecto android_cliente. Next.js, React, JavaScript y Firebase Web SDK. Puerto 3015.
 
